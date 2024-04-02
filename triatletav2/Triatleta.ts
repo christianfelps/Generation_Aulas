@@ -1,4 +1,4 @@
-import { Ciclista } from "./ciclista";
+import { Ciclista } from "./Ciclista";
 import { Corredor } from "./Corredor";
 import { Nadador } from "./Nadador";
 import { Pessoa } from "./Pessoa";
